@@ -1,0 +1,222 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    background-color: hsl(226, 43%, 10%);
+    font-size: 18px;
+   
+}
+.p1{
+    color: hsl(236, 100%, 87%)
+
+}
+.p2{
+    color:white;
+    font-size: 40px;
+
+}
+.container1{
+    width: 170px;
+    height:290px;
+    background-color:  hsl(246, 80%, 60%);
+    border-radius: 10px;
+    margin-left: 170px;
+    margin-top:200px;
+    padding: 50px;
+}
+.img1{
+    width:90px;
+    border:4px solid white ;
+    border-radius:50% ;
+    
+    
+}
+.container2{
+    width: 170px;
+    height:170px;
+    background-color:  hsl(235, 46%, 20%);
+    border-radius: 10px;
+    margin-left: 170px;
+    margin-top:200px;
+    padding: 50px;
+    position: relative;
+    bottom:250px;
+    z-index: -3;
+}
+.cont2p{
+    color: hsl(236, 100%, 87%);
+}
+.cont2pw{
+    color:white;
+}
+.container{
+    display: flex;
+}
+.workco{
+    margin-top:70px; 
+     width: 250px;
+    height:270px;
+    background-color:hsl(15, 100%, 70%);
+    border-radius: 10px;
+    margin-right: 20px;
+    
+
+}
+.workco2{
+    margin-top:70px; 
+     width: 250px;
+    height:220px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 10px;
+    margin-right: 20px;
+    position: relative;
+    bottom:285px;
+    
+
+}
+.playco{
+    margin-top:70px; 
+     width: 250px;
+    height:270px;
+    background-color:hsl(195, 74%, 62%);
+    border-radius: 10px;
+    margin-right: 20px;
+    
+
+}
+.playco2{
+    margin-top:70px; 
+     width: 250px;
+    height:220px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 10px;
+    margin-right: 20px;
+    position: relative;
+    bottom:285px;
+    
+
+}
+.studyco{
+    margin-top:70px; 
+     width: 250px;
+    height:270px;
+    background-color: hsl(348, 100%, 68%);
+    border-radius: 10px;
+    margin-right: 20px;
+    
+
+}
+.studyco2{
+    margin-top:70px; 
+     width: 250px;
+    height:220px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 10px;
+    margin-right: 20px;
+    position: relative;
+    bottom:285px;
+    
+
+}
+.exerciseco{
+    margin-top:70px; 
+     width: 250px;
+    height:270px;
+    background-color:hsl(145, 58%, 55%);
+    border-radius: 10px;
+    margin-right: 20px;
+    
+
+}
+.exerciseco2{
+    margin-top:70px; 
+     width: 250px;
+    height:220px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 10px;
+    margin-right: 20px;
+    position: relative;
+    bottom:285px;
+    
+
+}
+.socialco{
+    margin-top:70px; 
+     width: 250px;
+    height:270px;
+    background-color:hsl(264, 64%, 52%);
+    border-radius: 10px;
+    margin-right: 20px;
+    
+
+}
+.socialco2{
+    margin-top:70px; 
+     width: 250px;
+    height:220px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 10px;
+    margin-right: 20px;
+    position: relative;
+    bottom:285px;
+    
+
+}
+.selfcareco{
+    margin-top:70px; 
+     width: 250px;
+    height:270px;
+    background-color:hsl(43, 84%, 65%);
+    border-radius: 10px;
+    margin-right: 20px;
+    
+
+}
+.selfcareco2{
+    margin-top:70px; 
+     width: 250px;
+    height:220px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 10px;
+    margin-right: 20px;
+    position: relative;
+    bottom:285px;
+}
+.para{
+    font-size: 50px;
+    color: white;
+    padding: 0px 20px;
+}
+
+.sixcon{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+}
+.box1{
+    position: relative;
+    top:130px;
+}
+.box2{
+    position: relative;
+    bottom:185px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.img{
+    height: 5px;
+}
+.img2{
+    float: right;
+    padding-right: 20px; 
+}
+
+.week{
+    color:  hsl(236, 100%, 87%);
+    padding: 7px 20px;
+}
+p{
+    font-family: 'Rubik', sans-serif;
+}
